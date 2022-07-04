@@ -1,0 +1,39 @@
+/* global area */
+*{
+    /* margin: 0;
+    padding: 0; */
+}
+
+/* body area */
+body{
+    
+    font-family: 'Poppins', sans-serif;
+}
+p{
+    text-align: justify;
+    line-height: 120%;
+
+}
+.n-c-or{
+    color: orange;
+}
+section{
+    display: flex;
+}
+img{
+    width: 100%;
+}
+.link-button{
+    font-weight: 700;
+    text-decoration: none;
+    background-image:linear-gradient(orange,red);
+    padding: 10px;
+    border-radius: 8px;
+    color: aliceblue;
+}
+.top-bg-image{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    margin: 0;
+    
+}
